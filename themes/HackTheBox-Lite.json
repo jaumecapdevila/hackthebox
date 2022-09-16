@@ -1,5 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
+	"name": "HackTheBox - Lite",
 	"type": "dark",
 	"colors": {
 		"activityBar.activeBorder": "#1a2332",
@@ -462,12 +463,12 @@
 		{
 			"scope": [
 				"entity.name.tag",
-				"meta.tag.sgml"				
+				"meta.tag.sgml"
 			],
 			"settings": {
 				"foreground": "#FF8484"
 			}
-		},				
+		},
 		{
 			"scope": [
 
