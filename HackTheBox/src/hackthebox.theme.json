@@ -1,0 +1,11 @@
+{
+  "name": "HackTheBox",
+  "dark": true,
+  "editorScheme": "/themes/hackthebox.xml",
+  "ui": {
+    "*": {
+      "background": "#1a2332",
+      "foreground": "#a4b1cd"
+    }
+  }
+}
